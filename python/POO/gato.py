@@ -6,3 +6,6 @@ class Gato(Animal):
         
     def miar(self):
         return "Miau"
+    
+    def comer(self):
+        print("Miau comendo")
